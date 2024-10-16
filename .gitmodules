@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Khuzin"]
+	path = SubmoduleRepository_Khuzin
+	url = https://github.com/khuzin-t/SubmoduleRepository_Khuzin
